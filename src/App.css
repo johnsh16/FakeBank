@@ -1,0 +1,20 @@
+#app {
+  background-image: radial-gradient(turquoise, rgba(0, 0, 255, 0.493));
+  height: 100vh;
+}
+
+.module {
+  width: 70%;
+  text-align: center;
+  margin: auto;
+  top: 40px;
+}
+
+.navlink:hover {
+  color: green;
+  opacity: 50%;
+}
+
+.card-title {
+  padding: 10px;
+}

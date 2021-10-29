@@ -1,0 +1,24 @@
+#home-card {
+    text-align:center;
+    width: 70%;
+    height: 70vh;
+    top: 50px;
+    margin:auto;
+}
+
+#card-image {
+    margin: auto;
+    height: 300px;
+    width:350px;
+}
+
+#login-card {
+    top:20px;
+}
+
+#sign-out {
+    position: fixed;
+    top:460px;
+    left:46.2%
+
+}

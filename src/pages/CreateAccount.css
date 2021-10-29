@@ -1,0 +1,24 @@
+.form-card {
+    width: 75%;
+    margin: auto;
+    top: 20px;
+    text-align: center;
+}
+
+#createAccountForm {
+    padding: 20px;
+    text-align: left;
+}
+
+.account-button {
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#success-container {
+    width: 75%;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+}

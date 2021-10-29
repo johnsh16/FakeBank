@@ -1,0 +1,13 @@
+#card-space {
+    margin-top:20px;
+    overflow-y: scroll;
+    height: 75vh;
+}
+
+.card {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
